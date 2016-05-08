@@ -3,9 +3,9 @@ A game made in 48 hours for Ludum Dare #25.
 
 
 #Instructions
-» Move sideways with A and D.
+» Move sideways with `A` and `D`.
 
-» Jump with W or SPACE.
+» Jump with `W` or `SPACE`.
 
 » Jump on top of slimes to kill them.
 
